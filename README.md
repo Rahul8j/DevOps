@@ -1,42 +1,30 @@
-# 🚀 Day 01 - Linux Basics for DevOps
+# 🚀 DevOps Learning Journey
 
-## 📌 Overview
-In this task, I explored fundamental Linux commands which are essential for managing servers and cloud infrastructure. These commands form the base for automation, scripting, and DevOps workflows.
-
----
-
-## 🧠 Why Linux for DevOps?
-
-Linux is widely used in cloud environments like AWS, Azure, and GCP.  
-As a DevOps Engineer, interacting with servers, containers, and automation tools requires strong Linux fundamentals.
+Welcome to my DevOps hands-on journey where I document real-world skills and projects.
 
 ---
 
-## 📂 File & Directory Commands
+## 📅 Progress
 
-| Command | Description | Example |
-|--------|------------|--------|
-| `pwd` | Show current directory | `pwd` |
-| `ls` | List files | `ls -l` |
-| `cd` | Change directory | `cd /home` |
-| `mkdir` | Create directory | `mkdir project` |
-| `rm` | Delete files | `rm file.txt` |
+- 📁 Day-01 → Linux Basics for DevOps
+- ⏳ Day-02 → Coming Soon
 
 ---
 
-## 📁 File Management Commands
+## 🛠️ Skills I'm Building
 
-| Command | Description |
-|--------|------------|
-| `touch` | Create file |
-| `cp` | Copy file |
-| `mv` | Move/Rename file |
-| `cat` | View file content |
+- Linux Administration
+- AWS Cloud
+- Git & GitHub
+- Docker & Containers
+- CI/CD Pipelines
+- Automation & Scripting
+
+---
+## 🎯 Goal
+
+To design, implement, and optimize scalable cloud and DevOps solutions by leveraging automation, CI/CD pipelines, and modern infrastructure practices, while continuously improving system reliability and performance.
 
 ---
 
-## 🔐 Permissions & Ownership
-
-```bash
-chmod 777 file.txt
-chown user:user file.txt
+## 🔗 Repository Structure
