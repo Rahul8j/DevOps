@@ -1,4 +1,4 @@
-# 🚀 Day 02 - Linux Basics for DevOps
+# 🚀 Day 01 - Linux Basics for DevOps
 
 ## 📌 Overview
 In this task, I explored fundamental Linux commands which are essential for managing servers and cloud infrastructure. These commands form the base for automation, scripting, and DevOps workflows.
