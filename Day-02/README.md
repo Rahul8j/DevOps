@@ -19,8 +19,7 @@ Mastering command-line utilities enables efficient troubleshooting and automatio
 
 ## 📂 Tasks & Commands
 
-###1️⃣ Display File with Line Numbers
-```bash
+1️⃣ Display File with Line Numbers
 cat -n file.txt
 2️⃣ View First & Last Lines
 head -n 5 file.txt
