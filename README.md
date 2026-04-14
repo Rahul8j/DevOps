@@ -7,7 +7,7 @@ Welcome to my DevOps hands-on journey where I document real-world skills and pro
 ## 📅 Progress
 
 - 📁 Day-01 → Linux Basics for DevOps
-- ⏳ Day-02 → Coming Soon
+- ⏳ Day-02 → Advanced Linux Commands for DevOps
 
 ---
 
